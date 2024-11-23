@@ -4,3 +4,4 @@
 
 1. [fiber](https://github.com/gofiber/fiber) = express of go; alternatively can use gin
 2. [air](https://github.com/air-verse/air) = nodemon of go
+3. [godotenv](https://github.com/joho/godotenv): dotenv of golang
